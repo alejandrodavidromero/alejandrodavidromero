@@ -1,4 +1,7 @@
 ### Hi there 👋
+Soy Alejandro, tengo 40 años, soy profesor de Matematica y bibliotecario de escuelas secundarias.
+egresado recientemente de Henry!
+saludos
 
 <!--
 **alejandrodavidromero/alejandrodavidromero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
