@@ -1,6 +1,6 @@
 ### Hi there 👋
 Soy Alejandro, tengo 40 años, soy profesor de Matematica y bibliotecario de escuelas secundarias.
-egresado recientemente de Henry!
+Egresado recientemente de Henry!
 saludos
 
 <!--
